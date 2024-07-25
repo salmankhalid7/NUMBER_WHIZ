@@ -1,0 +1,78 @@
+Certainly! Here’s a step-by-step guide on how to play the Lucky Spin game:
+
+### How to Play the Lucky Spin Game
+
+1. **Start the Game:**
+   - Run the compiled executable (`lucky_spin_game`) from your terminal or command prompt.
+
+2. **Enter Your Name:**
+   - You’ll be prompted to enter your name. Type your name and press Enter.
+
+3. **Enter Your Age:**
+   - Next, you’ll be asked for your age. Type your age and press Enter.
+
+4. **Enter Your Total Balance:**
+   - You will be asked to input your total balance, which is the amount of money you have available to bet. Enter this amount and press Enter.
+
+5. **Place Your Bet:**
+   - You’ll then be prompted to place a bet. Enter the amount you wish to bet. Make sure this amount does not exceed your total balance. If you enter an amount greater than your balance, you’ll be asked to re-enter a valid bet amount.
+
+6. **Choose a Number:**
+   - You will now need to guess a number between 1 and 10. Enter your chosen number and press Enter.
+
+7. **View Results:**
+   - The game will randomly generate a number between 1 and 10.
+   - If your guessed number matches the randomly generated number, you win 10 times the amount you bet.
+   - If your guess does not match, you lose the amount you bet.
+   - The game will display the winning number, whether you won or lost, and your remaining balance.
+
+8. **End of Game:**
+   - After displaying the results, the game will end. You can run it again if you wish to play another round.
+
+### Example Scenario
+
+1. **Game Start:**
+   ```
+   <<WELCOME TO THE LUCKY SPIN>>
+
+   ENTER YOUR NAME: John
+   ENTER YOUR AGE: 25
+   ```
+
+2. **Total Balance:**
+   ```
+   ENTER THE TOTAL BALANCE: 1000
+   PLACE AN AMOUNT FOR BET: 50
+   ```
+
+3. **Choose a Number:**
+   ```
+   ENTER A NUMBER BETWEEN 1 AND 10: 7
+   ```
+
+4. **Results:**
+   ```
+   <<PLAYER'S INFORMATION>>
+
+   NAME: John
+   AGE: 25
+
+   <<FINANCIAL STATISTICS>>
+
+   TOTAL BALANCE: 1000
+   BETTED AMOUNT: 50
+
+   <<BET INFORMATION>>
+
+   CHOSEN NUMBER: 7
+
+   THE WINNING NUMBER IS (3)
+
+   NICE TRY!
+
+   YOU HAVE LOST THE BET
+
+   YOUR REMAINING BALANCE IS: (950)
+   ```
+
+This step-by-step guide will help players understand how to play and interact with the Lucky Spin game.
